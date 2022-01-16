@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on some Uni stuff
 - 🌱 Dart, Flutter, Java ❤️
 - 💬 Ask me about anything you want ;)
