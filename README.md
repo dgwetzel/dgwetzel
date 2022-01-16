@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 -->
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgwetzel&show_icons=true)
-![Daniel's Github lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dgwetzel&layout=compact&langs_count=7&theme=cobalt)
+![Daniel's Github lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dgwetzel)
 
